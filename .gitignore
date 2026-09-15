@@ -7,11 +7,6 @@
 ehthumbs.db
 Thumbs.db
 
-# IDE / Editor files
-.vscode/
-.idea/
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
+# Log files
+*.log
+error_log
